@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desarrollo\\ApiDesarrollo\\ApiDesarrollo\\ApiDesarrollo.csproj",
+      "projectUniqueName": "C:\\Users\\Alejandro\\Source\\Repos\\MagicVilla\\ApiDesarrollo\\ApiDesarrollo.csproj",
       "projectName": "ApiDesarrollo",
-      "projectPath": "C:\\Desarrollo\\ApiDesarrollo\\ApiDesarrollo\\ApiDesarrollo.csproj",
+      "projectPath": "C:\\Users\\Alejandro\\Source\\Repos\\MagicVilla\\ApiDesarrollo\\ApiDesarrollo.csproj",
       "packagesPath": "C:\\Users\\Alejandro\\.nuget\\packages\\",
-      "outputPath": "C:\\Desarrollo\\ApiDesarrollo\\ApiDesarrollo\\obj\\",
+      "outputPath": "C:\\Users\\Alejandro\\Source\\Repos\\MagicVilla\\ApiDesarrollo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",

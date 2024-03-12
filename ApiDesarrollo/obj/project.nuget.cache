@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfysW/T8u1aYx4jaUPJj/eYgTGVolPIxlCTyRglyFWFvq9ek/HCE0PLzaojv2uBWKsdQNFdCCsIK2MWiKOBj3g==",
+  "dgSpecHash": "X0hY/WbCyma7TgcU4nzUle4YjPxOh6yBT52reta8M85wLRe2mAsXZEpaZPAaHWw6Dz0rD9pIs0AkO5AxgGf+XA==",
   "success": true,
-  "projectFilePath": "C:\\Desarrollo\\ApiDesarrollo\\ApiDesarrollo\\ApiDesarrollo.csproj",
+  "projectFilePath": "C:\\Users\\Alejandro\\Source\\Repos\\MagicVilla\\ApiDesarrollo\\ApiDesarrollo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.16\\microsoft.aspnetcore.openapi.7.0.16.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
